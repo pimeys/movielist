@@ -4,6 +4,7 @@
 - The Ballad of Buster Scruggs (https://www.rottentomatoes.com/m/the_ballad_of_buster_scruggs)
 - Leviathan (https://www.rottentomatoes.com/m/leviafan)
 - Summer (https://www.rottentomatoes.com/m/summer_2018)
+- A Star is Born (https://www.rottentomatoes.com/m/a_star_is_born_2018)
 
 ## TV Series
 
