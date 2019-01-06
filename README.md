@@ -25,4 +25,10 @@ https://www.rottentomatoes.com/m/widows_2018
 
 > From Academy Award (R)-winning director Steve McQueen ("12 Years a Slave") and co-writer and bestselling author Gillian Flynn ("Gone Girl") comes a blistering, modern-day thriller set against the backdrop of crime, passion and corruption. "Widows" is the story of four women with nothing in common except a debt left behind by their dead husbands' criminal activities. Set in contemporary Chicago, amid a time of turmoil, tensions build when Veronica (Oscar (R) winner Viola Davis), Alice (Elizabeth Debicki), Linda (Michelle Rodriguez) and Belle (Cynthia Erivo) take their fate into their own hands and conspire to forge a future on their own terms. "Widows" also stars Liam Neeson, Colin Farrell, Robert Duvall, Daniel Kaluuya, Lukas Haas and Brian Tyree Henry.
             
-## TV Series
+## Music
+
+### Scion - Arrange and Produce Basic Channel Tracks (Tresor 200, CD, 2002)
+https://www.discogs.com/Scion-Arrange-And-Process-Basic-Channel-Tracks/release/43996
+
+### DJ Bone - Beyond (SUB046, 3xLP, 2018)
+https://www.discogs.com/DJ-Bone-Beyond/release/12903533
