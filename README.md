@@ -24,6 +24,16 @@ https://www.rottentomatoes.com/m/nico_1988
 https://www.rottentomatoes.com/m/widows_2018
 
 > From Academy Award (R)-winning director Steve McQueen ("12 Years a Slave") and co-writer and bestselling author Gillian Flynn ("Gone Girl") comes a blistering, modern-day thriller set against the backdrop of crime, passion and corruption. "Widows" is the story of four women with nothing in common except a debt left behind by their dead husbands' criminal activities. Set in contemporary Chicago, amid a time of turmoil, tensions build when Veronica (Oscar (R) winner Viola Davis), Alice (Elizabeth Debicki), Linda (Michelle Rodriguez) and Belle (Cynthia Erivo) take their fate into their own hands and conspire to forge a future on their own terms. "Widows" also stars Liam Neeson, Colin Farrell, Robert Duvall, Daniel Kaluuya, Lukas Haas and Brian Tyree Henry.
+
+### The Big Short (2015)
+https://www.rottentomatoes.com/m/the_big_short
+
+> Writer/director Adam McKay joins forces with Paramount Pictures and Plan B Entertainment to adapt Michael Lewis' best-seller The Big Short: Inside the Doomsday Machine, which centers on the housing a credit bubble of the 2000s.
+
+### Vice (2018)
+https://www.rottentomatoes.com/m/vice_2018
+
+> VICE explores the epic story about how a bureaucratic Washington insider quietly became the most powerful man in the world as Vice-President to George W. Bush, reshaping the country and the globe in ways that we still feel today.        
             
 ## Music
 
