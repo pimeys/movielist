@@ -1,3 +1,11 @@
+## TV Series
+
+### Homecoming (2018-)
+https://www.rottentomatoes.com/tv/homecoming/s01
+
+> Heidi Bergman (Roberts) is a caseworker at the Homecoming Transitional Support Center, a Geist Group facility helping soldiers 
+transition back to civilian life. Walter Cruz (Stephan James) is one of these soldiers, eager to begin the next phase of his life. Overseeing Heidi and the facility is Colin Belfast (Bobby Cannavale), an ambitious company man whose manic demands point to questionable motives. Four years later, Heidi has started a new life, living with her mother (Sissy Spacek) and working as a small-town waitress, when a Department of Defense auditor (Shea Whigham) comes to her with questions about why she left the Homecoming facility. Heidi begins to realize that there's a whole other story behind the story she?s been telling herself.
+ 
 ## Movies
 
 ### Climax [req]
