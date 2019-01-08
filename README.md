@@ -54,8 +54,8 @@ https://www.rottentomatoes.com/m/vice_2018
             
 ## Music
 
-### Scion - Arrange and Produce Basic Channel Tracks (Tresor 200, CD, 2002)
-https://www.discogs.com/Scion-Arrange-And-Process-Basic-Channel-Tracks/release/43996
+### Maayan Nidam - See of Thee (PERL119CD, CD, 2018)
+https://www.discogs.com/Maayan-Nidam-Sea-Of-Thee/master/1469738
 
 ### DJ Bone - Beyond (SUB046, 3xLP, 2018)
 https://www.discogs.com/DJ-Bone-Beyond/release/12903533
