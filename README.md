@@ -51,7 +51,17 @@ https://www.rottentomatoes.com/m/vice_2018
 https://www.rottentomatoes.com/m/our_new_president
 
 > The story of Donald Trump's election told entirely through Russian propaganda. By turns horrifying and hilarious, Our New 
-President is a satirical portrait of Russian meddling in the 2016 election that reveals an empire of fake news and the tactics of modern day information warfare.           
+President is a satirical portrait of Russian meddling in the 2016 election that reveals an empire of fake news and the tactics of modern day information warfare.
+
+### Green Book (2018)
+https://www.rottentomatoes.com/m/green_book
+
+> When Tony Lip (Mortensen), a bouncer from an Italian-American neighborhood in the Bronx, is hired to drive Dr. Don Shirley (Ali), a world-class Black pianist, on a concert tour from Manhattan to the Deep South, they must rely on "The Green Book" to guide them to the few establishments that were then safe for African-Americans. Confronted with racism, danger-as well as unexpected humanity and humor-they are forced to set aside differences to survive and thrive on the journey of a lifetime.
+
+### They Shall Not Grow Old (2018)
+https://www.rottentomatoes.com/m/they_shall_not_grow_old
+
+> The acclaimed documentary is an extraordinary look at the soldiers and events of the Great War, using film footage captured at the time, now presented as the world has never seen. By utilizing state-of-the-art restoration, colorization and 3D technologies, and pulling from 600 hours of BBC archival interviews, Jackson puts forth an intensely gripping, immersive and authentic experience through the eyes and voices of the British soldiers who lived it. Jackson recorded a special introduction to the film offering his perspective on why the film is important for audiences, who have never experienced WWI footage as anything but grainy black & white, and silent. Jackson opens a window to the past in a way that has never been seen or heard before, noting, "Restoration is a humanizing process."
             
 ## Music
 
