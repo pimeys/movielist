@@ -52,7 +52,12 @@ https://www.rottentomatoes.com/m/they_shall_not_grow_old
 https://www.rottentomatoes.com/m/roma_2018
 
 > The most personal project to date from Academy Award (R)-winning director and writer Alfonso Cuarón (Gravity, Children of Men, Y Tu Mama Tambien), ROMA follows Cleo (Yalitza Aparicio), a young domestic worker for a family in the middle-class neighborhood of Roma in Mexico City. Delivering an artful love letter to the women who raised him, Cuarón draws on his own childhood to create a vivid and emotional portrait of domestic strife and social hierarchy amidst political turmoil of the 1970s.
-            
+
+### Shoplifters (2018)
+https://www.rottentomatoes.com/m/shoplifters
+
+> After one of their shoplifting sessions, Osamu and his son come across a little girl in the freezing cold. At first reluctant to shelter the girl, Osamu's wife agrees to take care of her after learning of the hardships she faces. Although the family is poor, barely making enough money to survive through petty crime, they seem to live happily together until an unforeseen incident reveals hidden secrets, testing the bonds that unite them...
+
 ## Music
 
 ### Maayan Nidam - See of Thee (PERL119CD, CD, 2018)
