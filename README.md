@@ -58,6 +58,11 @@ https://www.rottentomatoes.com/m/shoplifters
 
 > After one of their shoplifting sessions, Osamu and his son come across a little girl in the freezing cold. At first reluctant to shelter the girl, Osamu's wife agrees to take care of her after learning of the hardships she faces. Although the family is poor, barely making enough money to survive through petty crime, they seem to live happily together until an unforeseen incident reveals hidden secrets, testing the bonds that unite them...
 
+### Sorry to Bother You (2018)
+https://www.rottentomatoes.com/m/sorry_to_bother_you_2018
+
+> In an alternate present-day version of Oakland, black telemarketer Cassius Green (Lakeith Stanfield) discovers a magical key to professional success, which propels him into a macabre universe of "powercalling" that leads to material glory. But the upswing in Cassius' career raises serious red flags with his girlfriend Detroit (Tessa Thompson), a performance artist and minimum-wage striver who's secretly part of a Banksy-style activist collective. As his friends and co-workers organize in protest of corporate oppression, Cassius falls under the spell of his company's cocaine-snorting CEO Steve Lift (Armie Hammer), who offers him a salary beyond his wildest dreams.    
+
 ## Music
 
 ### Maayan Nidam - See of Thee (PERL119CD, CD, 2018)
