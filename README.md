@@ -61,7 +61,13 @@ https://www.rottentomatoes.com/m/shoplifters
 ### Sorry to Bother You (2018)
 https://www.rottentomatoes.com/m/sorry_to_bother_you_2018
 
-> In an alternate present-day version of Oakland, black telemarketer Cassius Green (Lakeith Stanfield) discovers a magical key to professional success, which propels him into a macabre universe of "powercalling" that leads to material glory. But the upswing in Cassius' career raises serious red flags with his girlfriend Detroit (Tessa Thompson), a performance artist and minimum-wage striver who's secretly part of a Banksy-style activist collective. As his friends and co-workers organize in protest of corporate oppression, Cassius falls under the spell of his company's cocaine-snorting CEO Steve Lift (Armie Hammer), who offers him a salary beyond his wildest dreams.    
+> In an alternate present-day version of Oakland, black telemarketer Cassius Green (Lakeith Stanfield) discovers a magical key to professional success, which propels him into a macabre universe of "powercalling" that leads to material glory. But the upswing in Cassius' career raises serious red flags with his girlfriend Detroit (Tessa Thompson), a performance artist and minimum-wage striver who's secretly part of a Banksy-style activist collective. As his friends and co-workers organize in protest of corporate oppression, Cassius falls under the spell of his company's cocaine-snorting CEO Steve Lift (Armie Hammer), who offers him a salary beyond his wildest dreams.
+
+### The Favourite (2018)
+https://www.rottentomatoes.com/m/the_favourite_2018
+
+> Early 18th century. England is at war with the French. Nevertheless, duck racing and pineapple eating are thriving. A frail 
+Queen Anne (Olivia Colman) occupies the throne and her close friend Lady Sarah Churchill (Rachel Weisz) governs the country in her stead while tending to Anne's ill health and mercurial temper. When a new servant Abigail Masham (Emma Stone) arrives, her charm endears her to Sarah. Sarah takes Abigail under her wing and Abigail sees a chance at a return to her aristocratic roots. As the politics of war become quite time consuming for Sarah, Abigail steps into the breach to fill in as the Queen's companion. Their burgeoning friendship gives her a chance to fulfill her ambitions and she will not let woman, man, politics or rabbit stand in her way.
 
 ## Music
 
