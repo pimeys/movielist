@@ -74,6 +74,11 @@ https://www.rottentomatoes.com/m/the_lobster
 
 > Colin Farrell stars as David, a man who has just been dumped by his wife. To make matters worse, David lives in a society where single people have 45 days to find true love, or else they are turned into the animal of their choice and released into the woods. David is kept at the mysterious hotel while he searches for a new partner, and after several romantic misadventures decides to make a daring escape to abandon this world. He ultimately joins up with a rebel faction known as The Loners, a group founded on a complete rejection of romance. But once there David meets an enigmatic stranger (Rachel Weisz) who stirs up unexpected and strong feelings within him... At once a full immersion into a strange and surreal world, and a witty and clever reflection of our own society, THE LOBSTER is a thrillingly audacious vision fully brought to life by Lanthimos and his terrific cast. The filmmaker displays a completely singular style and mastery of tone, finding the perfect balance between sharp-edged satire and romantic fable that entertains its audience while also leaving them with lots to reflect on long after the credits have rolled.
 
+### Synonyms (Synonymes) (2019)
+https://www.rottentomatoes.com/m/synonyms
+
+> Berlinale 2019 winner.
+
 ## Music
 
 ### Maayan Nidam - See of Thee (PERL119CD, CD, 2018)
