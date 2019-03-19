@@ -1,5 +1,10 @@
 ## TV Series
 
+### Pose (2018)
+https://www.rottentomatoes.com/tv/pose
+
+> Set in the 1980s, this dance-musical drama explores the ball-culture world in New York City.
+
 ### Sharp Objects (2018)
 https://www.rottentomatoes.com/tv/sharp_objects/s01
 
