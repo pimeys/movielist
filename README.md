@@ -1,31 +1,6 @@
 ## TV Series
 
-### Pose (2018)
-https://www.rottentomatoes.com/tv/pose
-
-> Set in the 1980s, this dance-musical drama explores the ball-culture world in New York City.
-
-### Sharp Objects (2018)
-https://www.rottentomatoes.com/tv/sharp_objects/s01
-
-> After the gruesome murder of a preteen girl and the disappearance of another, reporter Camille Preaker (Amy Adams) reluctantly returns to her hometown to cover the crimes. Now, Camille has to work through her own personal trauma and risk falling into past self-destructive habits, while also clashing with her oppressive mother Adora (Patricia Clarkson) and trying to uncover the mystery behind what is happening in the city of Wind Gap.
- 
 ## Movies
-
-### Climax [req]
-https://www.rottentomatoes.com/m/climax
-
-> From director Gaspar Noé (Irreversible; Enter the Void; Love) comes a hypnotic, hallucinatory, and ultimately hair-raising depiction of a party that descends into delirium over the course of one wintry night. In Climax, a troupe of young dancers gathers in a remote and empty school building to rehearse. Following an unforgettable opening performance lit by virtuoso cinematographer Benoît Debie (Spring Breakers; Enter the Void) and shot by Noé himself, the troupe begins an all-night celebration that turns nightmarish as the dancers discover they've been pounding cups of sangria laced with potent LSD.
-
-### Summer [req]
-https://www.rottentomatoes.com/m/summer_2018
-
-> An underground rock band in 1980s Russia navigate a love triangle and the confines of creative censorship in Soviet Russia. Caught between musical passion, yearning romantic desire and a changing political landscape, the band tries to rise from their humble underground performances to make it big.
-
-### Nico, 1988 (2018)
-https://www.rottentomatoes.com/m/nico_1988
-
-> A biopic of the Velvet Underground singer/star. A small, sad, fearless biopic that asks the question: “Is junkie dignity possible?” The answer is no. Trine Dyrholm as our heroin-loving heroine plunges headfirst into the despair of showbiz with fierce determination.
 
 ### The Big Short (2015)
 https://www.rottentomatoes.com/m/the_big_short
@@ -42,11 +17,6 @@ https://www.rottentomatoes.com/m/our_new_president
 
 > The story of Donald Trump's election told entirely through Russian propaganda. By turns horrifying and hilarious, Our New 
 President is a satirical portrait of Russian meddling in the 2016 election that reveals an empire of fake news and the tactics of modern day information warfare.
-
-### Green Book (2018)
-https://www.rottentomatoes.com/m/green_book
-
-> When Tony Lip (Mortensen), a bouncer from an Italian-American neighborhood in the Bronx, is hired to drive Dr. Don Shirley (Ali), a world-class Black pianist, on a concert tour from Manhattan to the Deep South, they must rely on "The Green Book" to guide them to the few establishments that were then safe for African-Americans. Confronted with racism, danger-as well as unexpected humanity and humor-they are forced to set aside differences to survive and thrive on the journey of a lifetime.
 
 ### They Shall Not Grow Old (2018)
 https://www.rottentomatoes.com/m/they_shall_not_grow_old
@@ -71,8 +41,7 @@ https://www.rottentomatoes.com/m/sorry_to_bother_you_2018
 ### The Favourite (2018)
 https://www.rottentomatoes.com/m/the_favourite_2018
 
-> Early 18th century. England is at war with the French. Nevertheless, duck racing and pineapple eating are thriving. A frail 
-Queen Anne (Olivia Colman) occupies the throne and her close friend Lady Sarah Churchill (Rachel Weisz) governs the country in her stead while tending to Anne's ill health and mercurial temper. When a new servant Abigail Masham (Emma Stone) arrives, her charm endears her to Sarah. Sarah takes Abigail under her wing and Abigail sees a chance at a return to her aristocratic roots. As the politics of war become quite time consuming for Sarah, Abigail steps into the breach to fill in as the Queen's companion. Their burgeoning friendship gives her a chance to fulfill her ambitions and she will not let woman, man, politics or rabbit stand in her way.
+> Early 18th century. England is at war with the French. Nevertheless, duck racing and pineapple eating are thriving. A frail Queen Anne (Olivia Colman) occupies the throne and her close friend Lady Sarah Churchill (Rachel Weisz) governs the country in her stead while tending to Anne's ill health and mercurial temper. When a new servant Abigail Masham (Emma Stone) arrives, her charm endears her to Sarah. Sarah takes Abigail under her wing and Abigail sees a chance at a return to her aristocratic roots. As the politics of war become quite time consuming for Sarah, Abigail steps into the breach to fill in as the Queen's companion. Their burgeoning friendship gives her a chance to fulfill her ambitions and she will not let woman, man, politics or rabbit stand in her way.
 
 ### The Lobster (2016)
 https://www.rottentomatoes.com/m/the_lobster
@@ -83,6 +52,21 @@ https://www.rottentomatoes.com/m/the_lobster
 https://www.rottentomatoes.com/m/synonyms
 
 > Berlinale 2019 winner.
+
+### The Sisters Brothers (2018)
+https://www.rottentomatoes.com/m/the_sisters_brothers
+
+> From acclaimed director Jacques Audiard (Rust and Bone, A Prophet), and based on the novel by Patrick deWitt, THE SISTERS BROTHERS is a reimagining of the cinematic Western as a dangerous, witty, and emotionally cathartic exploration of what it means to be a man. It is 1851, and Charlie and Eli Sisters (Joaquin Phoenix and John C. Reilly) are both brothers and assassins, boys grown to men in a savage and hostile world. They have blood on their hands: that of criminals, that of innocents...and they know no state of existence other than being gunmen.
+
+### Dheepan (2016)
+https://www.rottentomatoes.com/m/dheepan
+
+> Winner of the Palme d'Or at the 2015 Cannes Film Festival, the new film from acclaimed director Jacques Audiard (A Prophet) is a gripping, human tale of survival. On the losing side of a civil war in Sri Lanka, a Tamil soldier (Antonythasan Jesuthasan) poses as the husband and father of two other refugees in order to escape their ravaged homeland. Arriving in France, the makeshift "family" sets about establishing a new life-only to find themselves once again embroiled in violence on the mean streets of Paris. A heartrending saga of three strangers united by circumstance and struggle, Dheepan is both a tour-de-force thriller and a powerful depiction of the immigrant experience. 
+
+### Read My Lips (2002)
+https://www.rottentomatoes.com/m/read_my_lips
+
+> Young secretary Carla is a long-time employee of a property development company. Loyal and hardworking, first to arrive and last to leave, Carla is beginning to chafe at the limitations of her career and is looking to move up. But as a 35-five-year-old woman with a hearing deficiency, she is not sure how to climb out of her humdrum life, though she is confident in her own abilities. Into her life comes Paul Angeli, a new trainee she decides to hire. Paul is 25 years old and completely unskilled, but Carla covers for him when the need arises because of his other qualities - he's a thief, fresh out of jail and very good-looking. It's a case of good meeting bad. 
 
 ## Music
 
